@@ -1,0 +1,8 @@
+git help = lista todos os comandos do git/github
+cd =  comando para entrar em uma pasta do diretório
+mkdir =  comando para criar repositório
+rmdir =  remove diretório
+git init = cria repositório vazio ou reinicia um existente
+.git = comando utilizado para abrir repositório oculto
+git clone = comando para clonar repositório
+git remote add origin  + url = comando utilizado para conectar  os repositórios
