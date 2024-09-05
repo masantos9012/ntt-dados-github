@@ -6,3 +6,4 @@ git init = cria repositório vazio ou reinicia um existente
 .git = comando utilizado para abrir repositório oculto
 git clone = comando para clonar repositório
 git remote add origin  + url = comando utilizado para conectar  os repositórios
+git status = comando utilizado para mostrar o status  da area de trabalho e do index
